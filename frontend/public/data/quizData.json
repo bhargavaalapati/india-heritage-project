@@ -1,0 +1,322 @@
+{
+  "tajmahal": [
+    {
+      "question": "Where is the Taj Mahal located?",
+      "options": [
+        "Aurangabad",
+        "Hyderabad",
+        "Agra",
+        "Delhi"
+      ],
+      "answer": "Agra"
+    },
+    {
+      "question": "When was the Taj Mahal built?",
+      "options": [
+        "1635",
+        "1632–1648 CE",
+        "1638",
+        "1667"
+      ],
+      "answer": "1632–1648 CE"
+    },
+    {
+      "question": "Who commissioned the Taj Mahal?",
+      "options": [
+        "Humayun",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Akbar"
+      ],
+      "answer": "Shah Jahan"
+    }
+  ],
+  "charminar": [
+    {
+      "question": "Where is the Charminar located?",
+      "options": [
+        "Agra",
+        "Aurangabad",
+        "Hyderabad",
+        "Thanjavur"
+      ],
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "When was the Charminar built?",
+      "options": [
+        "1591 CE",
+        "1571",
+        "1626",
+        "1561"
+      ],
+      "answer": "1591 CE"
+    },
+    {
+      "question": "Who built the Charminar?",
+      "options": [
+        "Muhammad Quli Qutb Shah",
+        "Sikander Lodi",
+        "Raja Raja Chola I",
+        "Ibrahim Lodi"
+      ],
+      "answer": "Muhammad Quli Qutb Shah"
+    }
+  ],
+  "konark": [
+    {
+      "question": "Where is the Konark Sun Temple located?",
+      "options": [
+        "Agra",
+        "Konark",
+        "Hyderabad",
+        "Sanchi"
+      ],
+      "answer": "Konark"
+    },
+    {
+      "question": "When was the Konark Sun Temple built?",
+      "options": [
+        "13th Century",
+        "15th Century",
+        "17th Century",
+        "10th Century"
+      ],
+      "answer": "13th Century"
+    },
+    {
+      "question": "What is the Konark Sun Temple famous for?",
+      "options": [
+        "Its use of red sandstone",
+        "Its twin sanctums",
+        "Its height",
+        "Being shaped like a colossal stone chariot"
+      ],
+      "answer": "Being shaped like a colossal stone chariot"
+    }
+  ],
+  "qutubminar": [
+    {
+      "question": "Where is the Qutub Minar located?",
+      "options": [
+        "Delhi",
+        "Thanjavur",
+        "Agra",
+        "Madurai"
+      ],
+      "answer": "Delhi"
+    },
+    {
+      "question": "When was the Qutub Minar built?",
+      "options": [
+        "1191",
+        "1235",
+        "1199–1220 CE",
+        "1170"
+      ],
+      "answer": "1199–1220 CE"
+    },
+    {
+      "question": "Who started the construction of Qutub Minar?",
+      "options": [
+        "Alauddin Khilji",
+        "Iltutmish",
+        "Akbar",
+        "Qutb-ud-din Aibak"
+      ],
+      "answer": "Qutb-ud-din Aibak"
+    }
+  ],
+  "brihadeeswara": [
+    {
+      "question": "Where is the Brihadeeswarar Temple located?",
+      "options": [
+        "Delhi",
+        "Aurangabad",
+        "Thanjavur",
+        "Sanchi"
+      ],
+      "answer": "Thanjavur"
+    },
+    {
+      "question": "When was the Brihadeeswarar Temple built?",
+      "options": [
+        "1043",
+        "966",
+        "1031",
+        "c. 1010 CE"
+      ],
+      "answer": "c. 1010 CE"
+    },
+    {
+      "question": "Who built the Brihadeeswarar Temple?",
+      "options": [
+        "Vikramaditya",
+        "Krishna Deva Raya",
+        "Raja Raja Chola II",
+        "Raja Raja Chola I"
+      ],
+      "answer": "Raja Raja Chola I"
+    }
+  ],
+  "hampi": [
+    {
+      "question": "Where is the Group of Monuments at Hampi located?",
+      "options": [
+        "Hyderabad",
+        "Sanchi",
+        "Aurangabad",
+        "Vijayanagara"
+      ],
+      "answer": "Vijayanagara"
+    },
+    {
+      "question": "When was the Group of Monuments at Hampi built?",
+      "options": [
+        "14th–16th Centuries",
+        "12th–14th Centuries",
+        "10th–12th Centuries",
+        "17th–19th Centuries"
+      ],
+      "answer": "14th–16th Centuries"
+    },
+    {
+      "question": "Which empire's capital was the Group of Monuments at Hampi?",
+      "options": [
+        "Maurya Empire",
+        "Vijayanagara Empire",
+        "Mughal Empire",
+        "Chola Empire"
+      ],
+      "answer": "Vijayanagara Empire"
+    }
+  ],
+  "sanchi": [
+    {
+      "question": "Where is the Sanchi Stupa located?",
+      "options": [
+        "Sanchi",
+        "Vijayanagara",
+        "Hyderabad",
+        "Chhatarpur"
+      ],
+      "answer": "Sanchi"
+    },
+    {
+      "question": "When was the Sanchi Stupa built?",
+      "options": [
+        "3rd Century BCE onwards",
+        "2nd Century CE onwards",
+        "1st Century BCE onwards",
+        "4th Century BCE onwards"
+      ],
+      "answer": "3rd Century BCE onwards"
+    },
+    {
+      "question": "Who commissioned the Sanchi Stupa?",
+      "options": [
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Emperor Ashoka",
+        "Samudragupta"
+      ],
+      "answer": "Emperor Ashoka"
+    }
+  ],
+  "ajanta": [
+    {
+      "question": "Where is the Ajanta Caves located?",
+      "options": [
+        "Delhi",
+        "Madurai",
+        "Aurangabad",
+        "Agra"
+      ],
+      "answer": "Aurangabad"
+    },
+    {
+      "question": "When was the Ajanta Caves built?",
+      "options": [
+        "2nd Century BCE – 6th Century CE",
+        "1st Century BCE – 2nd Century CE",
+        "5th Century BCE – 1st Century BCE",
+        "7th Century CE – 9th Century CE"
+      ],
+      "answer": "2nd Century BCE – 6th Century CE"
+    },
+    {
+      "question": "What is a key feature of the Ajanta Caves?",
+      "options": [
+        "Buddhist rock-cut monasteries",
+        "Mughal forts",
+        "Hindu temples",
+        "Jain monuments"
+      ],
+      "answer": "Buddhist rock-cut monasteries"
+    }
+  ],
+  "meenakshi": [
+    {
+      "question": "Where is the Meenakshi Amman Temple located?",
+      "options": [
+        "Vijayanagara",
+        "Madurai",
+        "Delhi",
+        "Agra"
+      ],
+      "answer": "Madurai"
+    },
+    {
+      "question": "When was the Meenakshi Amman Temple built?",
+      "options": [
+        "16th–17th Centuries (Nayak period)",
+        "10th–12th Centuries",
+        "14th–16th Centuries",
+        "18th–19th Centuries"
+      ],
+      "answer": "16th–17th Centuries (Nayak period)"
+    },
+    {
+      "question": "The Meenakshi Amman Temple is renowned for what?",
+      "options": [
+        "Its tallest brick minaret",
+        "Being made of white marble",
+        "Its colossal stone chariot",
+        "Its vividly painted gopurams"
+      ],
+      "answer": "Its vividly painted gopurams"
+    }
+  ],
+  "khajuraho": [
+    {
+      "question": "Where is the Khajuraho Group of Monuments located?",
+      "options": [
+        "Madurai",
+        "Chhatarpur",
+        "Vijayanagara",
+        "Thanjavur"
+      ],
+      "answer": "Chhatarpur"
+    },
+    {
+      "question": "When was the Khajuraho Group of Monuments built?",
+      "options": [
+        "7th–9th Centuries",
+        "10th–12th Centuries",
+        "13th–15th Centuries",
+        "5th–7th Centuries"
+      ],
+      "answer": "10th–12th Centuries"
+    },
+    {
+      "question": "The Khajuraho Group of Monuments are known for their sculptures in what style of temples?",
+      "options": [
+        "Mauryan-style",
+        "Dravidian-style",
+        "Mughal-style",
+        "Nagara-style"
+      ],
+      "answer": "Nagara-style"
+    }
+  ]
+}

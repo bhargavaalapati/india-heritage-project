@@ -1,0 +1,368 @@
+{
+  "botName": "Asa",
+  "botDescription": "Asa is an AI-powered chatbot designed to provide information about the heritage, culture, festivals, and famous foods of India's states and union territories.",
+  "moderation": {
+    "blockedWords": ["politics", "religion", "violence", "hate", "racism", "sex", "crime"],
+    "response": "As an AI guide for India's heritage, I'd prefer to talk about monuments, festivals, or food. Let's explore something positive!"
+  },
+  "intents": [
+    {
+      "intent": "greeting",
+      "keywords": ["hello", "hi", "hey", "namaste"],
+      "responses": ["Hello! I'm Asa. How can I help you explore India's heritage today?", "Namaste! What wonders of India can I tell you about?"]
+    },
+    {
+      "intent": "farewell",
+      "keywords": ["bye", "goodbye", "see you"],
+      "responses": ["Goodbye! Come back soon to explore more.", "Farewell! Happy travels."]
+    },
+    {
+      "intent": "capabilities",
+      "keywords": ["what can you do", "help", "abilities", "what do you know"],
+      "responses": ["I can provide information about Indian states, including their capitals, famous foods, festivals, and heritage sites. For example, try asking 'What is the capital of Gujarat?' or 'Tell me about Diwali'."]
+    },
+    {
+      "intent": "culture_heritage",
+      "keywords": ["heritage", "monument", "history", "culture"],
+      "responses": ["India's culture and heritage are vast! You can ask me about a specific monument like the Taj Mahal, a festival like Diwali, or a food like Dosa."]
+    }
+  ],
+  "fallback": {
+      "responses": [
+          "I'm not quite sure how to answer that. Could you try asking about a specific state, festival, food, or heritage site?",
+          "That's a great question! I'm still learning about that topic. Try asking me something like 'Tell me about food in Kerala'.",
+          "My knowledge is focused on the heritage of India's states. For example, you could ask, 'What are the heritage sites in Rajasthan?'"
+      ]
+  },
+
+  "knowledgeBase": {
+    "states": [
+      {
+        "name": "Andhra Pradesh",
+        "capital": "Amaravati",
+        "language": "Telugu",
+        "famousFor": ["Kuchipudi dance", "Tirupati Temple", "Amaravati Stupa"],
+        "heritageSites": ["Lepakshi Temple", "Undavalli Caves"],
+        "festivals": ["Ugadi", "Sankranti"],
+        "food": ["Pesarattu", "Pulihora"]
+      },
+      {
+        "name": "Arunachal Pradesh",
+        "capital": "Itanagar",
+        "language": "English, Nyishi, Apatani",
+        "famousFor": ["Tawang Monastery", "Natural beauty", "Tribal culture"],
+        "heritageSites": ["Ita Fort", "Tawang Monastery"],
+        "festivals": ["Losar", "Solung"],
+        "food": ["Thukpa", "Apong"]
+      },
+      {
+        "name": "Assam",
+        "capital": "Dispur",
+        "language": "Assamese",
+        "famousFor": ["Tea gardens", "Kaziranga National Park"],
+        "heritageSites": ["Kamakhya Temple", "Sivasagar"],
+        "festivals": ["Bihu"],
+        "food": ["Assamese Thali", "Pitha"]
+      },
+      {
+        "name": "Bihar",
+        "capital": "Patna",
+        "language": "Hindi, Bhojpuri, Maithili",
+        "famousFor": ["Nalanda University", "Bodh Gaya"],
+        "heritageSites": ["Mahabodhi Temple", "Nalanda"],
+        "festivals": ["Chhath Puja"],
+        "food": ["Litti Chokha", "Thekua"]
+      },
+      {
+        "name": "Chhattisgarh",
+        "capital": "Raipur",
+        "language": "Chhattisgarhi, Hindi",
+        "famousFor": ["Tribal culture", "Waterfalls"],
+        "heritageSites": ["Sirpur", "Bhoramdeo Temple"],
+        "festivals": ["Bastar Dussehra"],
+        "food": ["Chila", "Faraa"]
+      },
+      {
+        "name": "Goa",
+        "capital": "Panaji",
+        "language": "Konkani",
+        "famousFor": ["Beaches", "Portuguese heritage"],
+        "heritageSites": ["Basilica of Bom Jesus", "Se Cathedral"],
+        "festivals": ["Carnival", "Shigmo"],
+        "food": ["Fish Curry Rice", "Vindaloo"]
+      },
+      {
+        "name": "Gujarat",
+        "capital": "Gandhinagar",
+        "language": "Gujarati",
+        "famousFor": ["Gir National Park", "Somnath Temple"],
+        "heritageSites": ["Rani ki Vav", "Champaner"],
+        "festivals": ["Navratri", "Makar Sankranti"],
+        "food": ["Dhokla", "Thepla"]
+      },
+      {
+        "name": "Haryana",
+        "capital": "Chandigarh",
+        "language": "Hindi, Haryanvi",
+        "famousFor": ["Kurukshetra", "Folk music"],
+        "heritageSites": ["Kurukshetra", "Rakhigarhi"],
+        "festivals": ["Teej", "Baisakhi"],
+        "food": ["Bajra Khichdi", "Churma"]
+      },
+      {
+        "name": "Himachal Pradesh",
+        "capital": "Shimla, Dharamshala",
+        "language": "Hindi, Pahari",
+        "famousFor": ["Hill stations", "Temples"],
+        "heritageSites": ["Kangra Fort", "Tabo Monastery"],
+        "festivals": ["Kullu Dussehra"],
+        "food": ["Siddu", "Chana Madra"]
+      },
+      {
+        "name": "Jharkhand",
+        "capital": "Ranchi",
+        "language": "Hindi, Santhali, Mundari",
+        "famousFor": ["Mines", "Waterfalls"],
+        "heritageSites": ["Maluti Temples"],
+        "festivals": ["Sarhul", "Karma"],
+        "food": ["Thekua", "Rugra"]
+      },
+      {
+        "name": "Karnataka",
+        "capital": "Bengaluru",
+        "language": "Kannada",
+        "famousFor": ["Hampi", "Mysore Palace"],
+        "heritageSites": ["Hampi", "Pattadakal"],
+        "festivals": ["Mysore Dasara", "Ugadi"],
+        "food": ["Bisi Bele Bath", "Mysore Pak"]
+      },
+      {
+        "name": "Kerala",
+        "capital": "Thiruvananthapuram",
+        "language": "Malayalam",
+        "famousFor": ["Backwaters", "Ayurveda"],
+        "heritageSites": ["Padmanabhaswamy Temple", "Bekal Fort"],
+        "festivals": ["Onam", "Vishu"],
+        "food": ["Sadya", "Appam with Stew"]
+      },
+      {
+        "name": "Madhya Pradesh",
+        "capital": "Bhopal",
+        "language": "Hindi",
+        "famousFor": ["Khajuraho", "Wildlife"],
+        "heritageSites": ["Khajuraho Temples", "Sanchi Stupa"],
+        "festivals": ["Diwali", "Holi"],
+        "food": ["Poha", "Bhutte ka Kees"]
+      },
+      {
+        "name": "Maharashtra",
+        "capital": "Mumbai",
+        "language": "Marathi",
+        "famousFor": ["Ajanta-Ellora Caves", "Bollywood"],
+        "heritageSites": ["Ajanta", "Ellora", "Elephanta Caves"],
+        "festivals": ["Ganesh Chaturthi"],
+        "food": ["Vada Pav", "Puran Poli"]
+      },
+      {
+        "name": "Manipur",
+        "capital": "Imphal",
+        "language": "Meitei (Manipuri)",
+        "famousFor": ["Ras Leela dance", "Loktak Lake"],
+        "heritageSites": ["Kangla Fort"],
+        "festivals": ["Yaoshang"],
+        "food": ["Eromba", "Chamthong"]
+      },
+      {
+        "name": "Meghalaya",
+        "capital": "Shillong",
+        "language": "Khasi, Garo, English",
+        "famousFor": ["Living root bridges", "Rainfall"],
+        "heritageSites": ["Nartiang Monoliths"],
+        "festivals": ["Shad Suk Mynsiem"],
+        "food": ["Jadoh", "Tungrymbai"]
+      },
+      {
+        "name": "Mizoram",
+        "capital": "Aizawl",
+        "language": "Mizo",
+        "famousFor": ["Hills", "Tribal culture"],
+        "heritageSites": ["Solomon's Temple"],
+        "festivals": ["Chapchar Kut"],
+        "food": ["Bai", "Sawhchiar"]
+      },
+      {
+        "name": "Nagaland",
+        "capital": "Kohima",
+        "language": "English, Naga dialects",
+        "famousFor": ["Hornbill Festival", "Tribal heritage"],
+        "heritageSites": ["Kachari Ruins"],
+        "festivals": ["Hornbill Festival"],
+        "food": ["Smoked Pork", "Axone"]
+      },
+      {
+        "name": "Odisha",
+        "capital": "Bhubaneswar",
+        "language": "Odia",
+        "famousFor": ["Konark Sun Temple", "Jagannath Puri"],
+        "heritageSites": ["Konark Temple", "Jagannath Temple"],
+        "festivals": ["Rath Yatra"],
+        "food": ["Pakhala Bhata", "Chhena Poda"]
+      },
+      {
+        "name": "Punjab",
+        "capital": "Chandigarh",
+        "language": "Punjabi",
+        "famousFor": ["Golden Temple", "Bhangra"],
+        "heritageSites": ["Golden Temple", "Jallianwala Bagh"],
+        "festivals": ["Baisakhi", "Lohri"],
+        "food": ["Makki di Roti", "Sarson da Saag"]
+      },
+      {
+        "name": "Rajasthan",
+        "capital": "Jaipur",
+        "language": "Hindi, Rajasthani",
+        "famousFor": ["Forts and Palaces", "Thar Desert"],
+        "heritageSites": ["Amber Fort", "Chittorgarh Fort"],
+        "festivals": ["Desert Festival", "Gangaur"],
+        "food": ["Dal Baati Churma", "Ghevar"]
+      },
+      {
+        "name": "Sikkim",
+        "capital": "Gangtok",
+        "language": "Nepali, Bhutia, Lepcha",
+        "famousFor": ["Kanchenjunga", "Buddhist Monasteries"],
+        "heritageSites": ["Rumtek Monastery"],
+        "festivals": ["Losar", "Saga Dawa"],
+        "food": ["Momo", "Thukpa"]
+      },
+      {
+        "name": "Tamil Nadu",
+        "capital": "Chennai",
+        "language": "Tamil",
+        "famousFor": ["Temples", "Classical dance (Bharatanatyam)"],
+        "heritageSites": ["Brihadeeswarar Temple", "Mahabalipuram"],
+        "festivals": ["Pongal", "Karthigai Deepam"],
+        "food": ["Idli", "Dosa", "Sambar"]
+      },
+      {
+        "name": "Telangana",
+        "capital": "Hyderabad",
+        "language": "Telugu, Urdu",
+        "famousFor": ["Charminar", "Golconda Fort"],
+        "heritageSites": ["Charminar", "Qutb Shahi Tombs"],
+        "festivals": ["Bonalu", "Bathukamma"],
+        "food": ["Hyderabadi Biryani", "Haleem"]
+      },
+      {
+        "name": "Tripura",
+        "capital": "Agartala",
+        "language": "Bengali, Kokborok",
+        "famousFor": ["Palaces", "Tribal culture"],
+        "heritageSites": ["Neermahal", "Ujjayanta Palace"],
+        "festivals": ["Kharchi Puja"],
+        "food": ["Mui Borok", "Chakhwi"]
+      },
+      {
+        "name": "Uttar Pradesh",
+        "capital": "Lucknow",
+        "language": "Hindi, Urdu",
+        "famousFor": ["Taj Mahal", "Varanasi"],
+        "heritageSites": ["Taj Mahal", "Fatehpur Sikri"],
+        "festivals": ["Diwali", "Holi"],
+        "food": ["Tunday Kababi", "Peda"]
+      },
+      {
+        "name": "Uttarakhand",
+        "capital": "Dehradun",
+        "language": "Hindi, Garhwali, Kumaoni",
+        "famousFor": ["Char Dham Yatra", "Himalayas"],
+        "heritageSites": ["Kedarnath", "Badrinath"],
+        "festivals": ["Kumbh Mela", "Ganga Dussehra"],
+        "food": ["Aloo Ke Gutke", "Chainsoo"]
+      },
+      {
+        "name": "West Bengal",
+        "capital": "Kolkata",
+        "language": "Bengali",
+        "famousFor": ["Durga Puja", "Literature", "Sundarbans"],
+        "heritageSites": ["Victoria Memorial", "Sundarbans"],
+        "festivals": ["Durga Puja"],
+        "food": ["Macher Jhol", "Rasgulla"]
+      }
+    ],
+    "unionTerritories": [
+      {
+        "name": "Andaman and Nicobar Islands",
+        "capital": "Port Blair",
+        "language": "Hindi, English",
+        "famousFor": ["Beaches", "Cellular Jail"],
+        "heritageSites": ["Cellular Jail"],
+        "festivals": ["Island Tourism Festival"],
+        "food": ["Seafood", "Fish Curry"]
+      },
+      {
+        "name": "Chandigarh",
+        "capital": "Chandigarh",
+        "language": "Hindi, Punjabi",
+        "famousFor": ["Urban planning by Le Corbusier"],
+        "heritageSites": ["Capitol Complex"],
+        "festivals": ["Rose Festival"],
+        "food": ["Chole Bhature", "Parathas"]
+      },
+      {
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "capital": "Daman",
+        "language": "Gujarati, Hindi, Konkani",
+        "famousFor": ["Portuguese heritage", "Beaches"],
+        "heritageSites": ["St. Jerome Fort"],
+        "festivals": ["Navratri", "Diwali"],
+        "food": ["Seafood", "Gujarati Thali"]
+      },
+      {
+        "name": "Delhi",
+        "capital": "New Delhi",
+        "language": "Hindi, English",
+        "famousFor": ["Red Fort", "Qutub Minar", "India Gate"],
+        "heritageSites": ["Humayun's Tomb", "Lotus Temple"],
+        "festivals": ["Diwali", "Holi", "Eid"],
+        "food": ["Parathas", "Chole Bhature", "Street Food"]
+      },
+      {
+        "name": "Jammu and Kashmir",
+        "capital": "Srinagar, Jammu",
+        "language": "Urdu, Kashmiri, Dogri",
+        "famousFor": ["Dal Lake", "Shikaras", "Mughal Gardens"],
+        "heritageSites": ["Shankaracharya Temple", "Mughal Gardens"],
+        "festivals": ["Eid", "Baisakhi"],
+        "food": ["Rogan Josh", "Kahwa"]
+      },
+      {
+        "name": "Ladakh",
+        "capital": "Leh",
+        "language": "Ladakhi, Hindi, English",
+        "famousFor": ["Monasteries", "Buddhist culture"],
+        "heritageSites": ["Thiksey Monastery", "Hemis Monastery"],
+        "festivals": ["Hemis Festival"],
+        "food": ["Thukpa", "Skyu"]
+      },
+      {
+        "name": "Lakshadweep",
+        "capital": "Kavaratti",
+        "language": "Malayalam, Mahl, Jeseri",
+        "famousFor": ["Beaches", "Marine life"],
+        "heritageSites": ["Kavaratti Mosques"],
+        "festivals": ["Eid", "Milad-un-Nabi"],
+        "food": ["Seafood", "Coconut-based dishes"]
+      },
+      {
+        "name": "Puducherry",
+        "capital": "Puducherry",
+        "language": "Tamil, French",
+        "famousFor": ["French colonial heritage", "Beaches"],
+        "heritageSites": ["Aurobindo Ashram"],
+        "festivals": ["Pongal", "Bastille Day"],
+        "food": ["French-Indian fusion cuisine", "Seafood"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mughal-empire-trail",
+    "title": "The Mughal Empire Trail",
+    "description": "Follow the journey of the Mughal emperors through their most iconic architectural marvels, from grand mausoleums to towering minarets.",
+    "thumbnail": "/images/tours/mughal.jpg",
+    "monumentIds": [
+      "tajmahal",
+      "qutubminar",
+      "akbar"
+    ]
+  },
+  {
+    "id": "southern-temple-wonders",
+    "title": "Southern Temple Wonders",
+    "description": "Explore the breathtaking Dravidian architectural style and rich history of South India's most celebrated temple complexes.",
+    "thumbnail": "/images/tours/southern.jpg",
+    "monumentIds": [
+      "hampi",
+      "brihadeeswara",
+      "meenakshi"
+    ]
+  },
+  {
+    "id": "path-of-buddhism",
+    "title": "The Path of Buddhism",
+    "description": "Discover the ancient roots of Buddhism in India by visiting its most serene and historically significant stupas and caves.",
+    "thumbnail": "/images/tours/buddhism.jpg",
+    "monumentIds": [
+      "sanchi",
+      "ajanta",
+      "nalanda"
+    ]
+  }
+]

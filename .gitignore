@@ -1,0 +1,39 @@
+# Dependencies
+/node_modules
+/frontend/node_modules
+/backend/venv
+
+# Vite build output
+/frontend/dist
+
+# Environment variables
+# Ignore all local environment files
+.env
+.env.local
+.env.*.local
+
+# Also ignore environment files in subdirectories
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.*.local
+/backend/.env
+/backend/.env.local
+/backend/.env.*.local
+
+# Log files
+*.log
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Operating System generated files
+.DS_Store
+Thumbs.db

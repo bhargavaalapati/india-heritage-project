@@ -1,0 +1,153 @@
+[
+  {
+    "id": "tajmahal",
+    "name": "Taj Mahal",
+    "location": "Agra, Uttar Pradesh",
+    "year_built": "1632–1648 CE",
+    "facts": [
+      "Commissioned by Mughal emperor Shah Jahan in memory of Mumtaz Mahal.",
+      "UNESCO World Heritage Site (1983).",
+      "White marble reflects different hues at sunrise, daylight, and moonlight.",
+      "Fluted dome and four minarets exemplify Mughal symmetry."
+    ],
+    "model": "/models/tajmahal.glb",
+    "thumbnail": "/images/heritage/tajMahal.jpg",
+    "hasModel": true,
+    "embedUrl": null
+  },
+  {
+    "id": "charminar",
+    "name": "Charminar",
+    "location": "Hyderabad, Telangana",
+    "year_built": "1591 CE",
+    "facts": [
+      "Built by Muhammad Quli Qutb Shah; name means 'four minarets'.",
+      "Each minaret rises ~48m with balconies at multiple levels.",
+      "Laad Bazaar nearby is famed for lacquer bangles."
+    ],
+    "model": "/models/charminar.glb",
+    "thumbnail": "/images/heritage/Charminar.jpg",
+    "hasModel": true,
+    "embedUrl": null
+  },
+  {
+    "id": "konark",
+    "name": "Konark Sun Temple",
+    "location": "Konark, Odisha",
+    "year_built": "13th Century",
+    "facts": [
+      "Shaped like a colossal stone chariot dedicated to Surya.",
+      "24 carved wheels function as sundials.",
+      "UNESCO World Heritage Site (1984)."
+    ],
+    "model": null,
+    "thumbnail": "/images/heritage/konark.jpg",
+    "hasModel": false,
+    "embedUrl": "https://sketchfab.com/models/6cc905be2ae34e8091eb1eaa84a17738/embed"
+  },
+  {
+    "id": "qutubminar",
+    "name": "Qutub Minar",
+    "location": "Delhi",
+    "year_built": "1199–1220 CE",
+    "facts": [
+      "At ~73m, it’s one of the tallest brick minarets.",
+      "Started by Qutb-ud-din Aibak, completed by Iltutmish.",
+      "UNESCO World Heritage Site (1993)."
+    ],
+    "model": null,
+    "thumbnail": "/images/heritage/qutubminar.jpg",
+    "hasModel": false,
+    "embedUrl": "https://sketchfab.com/models/e165e25ec8f1497aa83ab72419f40ddc/embed"
+  },
+  {
+    "id": "brihadeeswara",
+    "name": "Brihadeeswarar Temple",
+    "location": "Thanjavur, Tamil Nadu",
+    "year_built": "c. 1010 CE",
+    "facts": [
+      "Built by Raja Raja Chola I; towering vimana ~66m.",
+      "Granite Dravidian marvel; part of 'Great Living Chola Temples'.",
+      "UNESCO World Heritage Site (1987, extended 2004)."
+    ],
+    "model": null,
+    "thumbnail": "/images/heritage/brihadeeswara.jpg",
+    "hasModel": false,
+    "embedUrl": "https://sketchfab.com/models/b80c75f91dad4994a0e7000467433ac9/embed"
+  },
+  {
+    "id": "hampi",
+    "name": "Group of Monuments at Hampi",
+    "location": "Vijayanagara, Karnataka",
+    "year_built": "14th–16th Centuries",
+    "facts": [
+      "Capital of the Vijayanagara Empire; ruins span temples, bazaars, and pavilions.",
+      "Virupaksha Temple and the iconic Stone Chariot are highlights.",
+      "UNESCO World Heritage Site."
+    ],
+    "model": null,
+    "thumbnail": "/images/heritage/Hampi1.jpg",
+    "hasModel": false,
+    "embedUrl": "https://sketchfab.com/models/dfaf413f0ce845a3b798b0bb4079962a/embed"
+  },
+  {
+    "id": "sanchi",
+    "name": "Sanchi Stupa",
+    "location": "Sanchi, Madhya Pradesh",
+    "year_built": "3rd Century BCE onwards",
+    "facts": [
+      "Commissioned under Emperor Ashoka; one of the oldest stone structures in India.",
+      "Noted for elaborately carved toranas (gateways).",
+      "UNESCO World Heritage Site (1989)."
+    ],
+    "model": "/models/sanchi.glb",
+    "thumbnail": "/images/heritage/sanchi.JPG",
+    "hasModel": true,
+    "embedUrl": null
+  },
+  {
+    "id": "ajanta",
+    "name": "Ajanta Caves",
+    "location": "Aurangabad, Maharashtra",
+    "year_built": "2nd Century BCE – 6th Century CE",
+    "facts": [
+      "Buddhist rock-cut monasteries and prayer halls.",
+      "Renowned murals depict Jataka tales and Buddhist themes.",
+      "UNESCO World Heritage Site (1983)."
+    ],
+    "model": null,
+    "thumbnail": "/images/heritage/ajanta.jpg",
+    "hasModel": false,
+    "embedUrl": "https://sketchfab.com/models/5290b2b4676646c2a12f1712497b7193/embed"
+  },
+  {
+    "id": "meenakshi",
+    "name": "Meenakshi Amman Temple",
+    "location": "Madurai, Tamil Nadu",
+    "year_built": "16th–17th Centuries (Nayak period)",
+    "facts": [
+      "Famous for vividly painted gopurams and intricate sculptures.",
+      "Twin sanctums for Meenakshi (Parvati) and Sundareshwarar (Shiva).",
+      "The 'Hall of Thousand Pillars' showcases exquisite craftsmanship."
+    ],
+    "model": null,
+    "thumbnail": "/images/heritage/meenakshi.jpg",
+    "hasModel": false,
+    "embedUrl": "https://sketchfab.com/models/944904c498b84c99a3702bf57cae25ec/embed"
+  },
+  {
+    "id": "khajuraho",
+    "name": "Khajuraho Group of Monuments",
+    "location": "Chhatarpur, Madhya Pradesh",
+    "year_built": "10th–12th Centuries",
+    "facts": [
+      "Nagara-style temples famed for dynamic sculptures and motifs.",
+      "Around 20+ temples survive from an original ~85.",
+      "UNESCO World Heritage Site (1986)."
+    ],
+    "model": null,
+    "thumbnail": "/images/heritage/khajuraho.jpg",
+    "hasModel": false,
+    "embedUrl": "https://sketchfab.com/models/dd99586619e74f24b8dec10cc009c360/embed"
+  }
+]

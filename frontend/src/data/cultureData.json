@@ -1,0 +1,216 @@
+{
+  "indian_culture": {
+  "definition": [
+      "Indian culture is one of the world's oldest and richest traditions.",
+      "It emphasizes family values, spirituality, and artistic expression.",
+      "Festivals, food, music, and clothing all reflect diversity."
+    ],
+    "cultural_elements": [
+      {
+        "name": "Languages",
+        "data": [
+          {
+            "name": "Hindi",
+            "why": "The most widely spoken language in India, serving as a lingua franca and an official language. Its literary form is based on the Khari Boli dialect, and it is a member of the Indo-Aryan family.",
+            "when": "Modern Hindi evolved from Middle Indo-Aryan Prakrit languages around 10th century CE.",
+            "image": "/images/culture/Hindi.webp"
+          },
+          {
+            "name": "Tamil",
+            "why": "One of the world's oldest surviving classical languages and the official language of Tamil Nadu. It is a Dravidian language with a rich literary tradition that dates back millennia.",
+            "when": "Proto-Dravidian languages were spoken in India as early as the 4th millennium BCE, with Tamil literary evidence dating to 500 BCE.",
+            "image": "/images/culture/tamil.jpg"
+          },
+          {
+            "name": "Sanskrit",
+            "why": "The classical language of ancient India, and a liturgical language of Hinduism, Buddhism, and Jainism. It is the root of many modern Indo-Aryan languages and is revered for its sophisticated grammatical structure.",
+            "when": "Vedic Sanskrit, the language of the Vedas, was used from around 1500 BCE.",
+            "image": "/images/culture/sanskrit.jpg"
+          },
+          {
+            "name": "Bengali",
+            "why": "The official language of West Bengal, Tripura, and Bangladesh. It has a rich literary history with a profound impact on Indian and Bengali culture, including the works of Rabindranath Tagore.",
+            "when": "Developed from Magadhi Prakrit and evolved into a distinct language between 1000 and 1200 CE.",
+            "image": "/images/culture/bengali.jpg"
+          },
+          {
+            "name": "Telugu",
+            "why": "A major Dravidian language spoken in Andhra Pradesh and Telangana. Known as the 'Italian of the East' for its melodic quality and rich literary and cinematic traditions.",
+            "when": "Evolved from the Proto-Dravidian language, with inscriptions dating from 575 CE.",
+            "image": "/images/culture/telugu.jpg"
+          },
+          {
+            "name": "Urdu",
+            "why": "An Indo-Aryan language with strong influences from Persian, Arabic, and Turkic. It is known for its poetic forms like Ghazals and is a major literary language in India and Pakistan.",
+            "when": "Developed during the Delhi Sultanate (1206-1526 CE) and further flourished under the Mughal Empire.",
+            "image": "/images/culture/urdu.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Festivals",
+        "data": [
+          {
+            "name": "Diwali",
+            "why": "Known as the 'Festival of Lights,' it symbolizes the victory of light over darkness and good over evil. Celebrations include lighting lamps, decorating homes, and fireworks.",
+            "when": "Celebrated in autumn, typically in October or November, based on the Hindu lunisolar calendar.",
+            "image": "/images/culture/diwali.jpg"
+          },
+          {
+            "name": "Holi",
+            "why": "The 'Festival of Colors' marks the arrival of spring and the triumph of good over evil. People celebrate by throwing colored powders and water at each other.",
+            "when": "Celebrated in March, on the last full moon day of the Hindu calendar month Phalguna.",
+            "image": "/images/culture/holi.jpg"
+          },
+          {
+            "name": "Eid al-Fitr",
+            "why": "A major Islamic festival that marks the end of Ramadan, the holy month of fasting. It is a time for communal prayers, feasting, and charity.",
+            "when": "Celebrated on the first day of Shawwal, the 10th month of the Islamic calendar.",
+            "image": "/images/culture/eid.webp"
+          },
+          {
+            "name": "Durga Puja & Navaratri",
+            "why": "A major festival dedicated to the Hindu goddess Durga, celebrating her victory over the buffalo demon Mahishasura. Navaratri is a nine-night festival culminating in Durga Puja.",
+            "when": "Celebrated in autumn, typically in September or October.",
+            "image": "/images/culture/durga.webp"
+          },
+          {
+            "name": "Ganesh Chaturthi",
+            "why": "Celebrates the birth of Lord Ganesha, the remover of obstacles. It is marked by the installation of Ganesha idols in homes and public places, which are later immersed in water bodies.",
+            "when": "Celebrated for 10 days in August or September.",
+            "image": "/images/culture/ganesha.avif"
+          },
+          {
+            "name": "Onam",
+            "why": "A harvest festival in Kerala that celebrates the homecoming of the mythical King Mahabali. Key traditions include snake boat races, floral decorations (Pookalam), and the grand feast (Onasadya).",
+            "when": "Celebrated in the Malayalam month of Chingam, which falls between August and September.",
+            "image": "/images/culture/onam.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Cuisine",
+        "data": [
+          {
+            "name": "Biryani",
+            "why": "A fragrant mixed rice dish with layers of marinated meat or vegetables. Its origins are linked to the Mughal kitchens, making it a staple of Mughlai cuisine.",
+            "when": "A popular dish for special occasions and daily consumption, especially in regions with Mughal heritage like Hyderabad and Lucknow.",
+            "image": "/images/culture/biryani.jpg"
+          },
+          {
+            "name": "Dosa & Idli",
+            "why": "Staples of South Indian cuisine, made from a fermented batter of rice and lentils. They are healthy, light, and served with sambar (lentil stew) and chutneys.",
+            "when": "Consumed year-round, typically as a breakfast item or a light meal.",
+            "image": "/images/culture/dosaandidly.jpg"
+          },
+          {
+            "name": "Makki di Roti & Sarson da Saag",
+            "why": "A traditional Punjabi dish. Makki di Roti is a flatbread made from maize flour, and Sarson da Saag is a curry made from mustard greens. It is rich in nutrients and flavor.",
+            "when": "A winter delicacy, as the ingredients are freshly harvested during this season.",
+            "image": "/images/culture/makkidiroti.avif"
+          },
+          {
+            "name": "Rogan Josh",
+            "why": "A signature Kashmiri dish of tender lamb cooked in a rich, aromatic gravy. It was introduced to the region by the Mughals and is known for its distinctive red color derived from dried Kashmiri chilies.",
+            "when": "A popular dish for feasts and special occasions in North India.",
+            "image": "/images/culture/roganjosh.jpeg"
+          },
+          {
+            "name": "Dhokla",
+            "why": "A savory, steamed snack from Gujarat made from fermented rice and split chickpeas. It is light, spongy, and often garnished with mustard seeds and coriander.",
+            "when": "A year-round snack or breakfast food.",
+            "image": "/images/culture/dhokla.webp"
+          },
+          {
+            "name": "Litti Chokha",
+            "why": "A rustic dish from Bihar and Jharkhand, consisting of roasted wheat balls stuffed with spiced roasted gram flour (sattu), served with a mash of roasted vegetables (chokha).",
+            "when": "A traditional rural dish, often consumed as a daily meal or snack.",
+            "image": "/images/culture/littichokha.webp"
+          }
+        ]
+      },
+      {
+        "name": "Traditional Arts",
+        "data": [
+          {
+            "name": "Bharatanatyam",
+            "why": "The oldest classical dance form in India, originating from the temples of Tamil Nadu. It is known for its intricate footwork, expressive hand gestures (mudras), and sculptural poses.",
+            "when": "Its roots are traced back to the ancient treatise 'Natya Shastra' (c. 200 BCE – 200 CE).",
+            "image": "/images/culture/bharatanatyam.jpg"
+          },
+          {
+            "name": "Kathak",
+            "why": "A classical dance from northern India, evolving from the art of storytelling. It is characterized by fast, intricate footwork, spins, and expressive facial movements.",
+            "when": "Originated with the 'Kathakars' (storytellers) of ancient North India, gaining prominence in the Mughal courts from the 16th century onwards.",
+            "image": "/images/culture/kathak.jpg"
+          },
+          {
+            "name": "Kathakali",
+            "why": "A dance-drama from Kerala known for its elaborate makeup, vibrant costumes, and stylized gestures. It combines acting, dancing, and music to retell stories from Hindu epics like the Ramayana.",
+            "when": "Developed in the 17th century CE as a blend of ancient ritual traditions.",
+            "image": "/images/culture/kathakali.jpg"
+          },
+          {
+            "name": "Odissi",
+            "why": "A classical dance form from Odisha. It is considered one of the oldest surviving dance traditions in India, with postures found in temple sculptures. It is known for its fluid movements and graceful poses.",
+            "when": "Its origins are traced to the dance of 'Maharis' (female temple dancers) of ancient Odisha.",
+            "image": "/images/culture/oddisi.webp"
+          },
+          {
+            "name": "Hindustani Classical Music",
+            "why": "A major genre of Indian classical music from North India. It is known for its improvisation and exploration of a single melodic theme (raga) and rhythmic pattern (taal).",
+            "when": "Evolved from Vedic ritual chanting and flourished under the patronage of Mughal rulers from the 13th century CE.",
+            "image": "/images/culture/hindustanmusic.jpg"
+          },
+          {
+            "name": "Carnatic Classical Music",
+            "why": "A major genre of Indian classical music from South India. It is more structured and composition-based than Hindustani music, with a strong emphasis on vocals.",
+            "when": "Its foundations are considered to be from the ancient Hindu texts, with its modern form developing in the 15th-16th centuries CE.",
+            "image": "/images/culture/carnaticmusic.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Religions",
+        "data": [
+          {
+            "name": "Hinduism",
+            "why": "The world's oldest religion, and the predominant faith in India. It is a diverse tradition with core beliefs in karma, dharma (ethics/duties), moksha (salvation), and reincarnation.",
+            "when": "Its origins are pre-historic, with traditions and philosophies established during the Vedic period (c. 1500–500 BCE).",
+            "image": "/images/culture/hinduism.jpeg"
+          },
+          {
+            "name": "Buddhism",
+            "why": "An ancient Indian religion that focuses on achieving enlightenment (Nirvana) through ethical conduct, mental discipline, and wisdom. It was founded by Siddhartha Gautama (the Buddha).",
+            "when": "Founded in the 6th century BCE in the region of modern-day Nepal and Bihar.",
+            "image": "/images/culture/budhisim.jpg"
+          },
+          {
+            "name": "Jainism",
+            "why": "An ancient Indian religion that emphasizes non-violence (Ahimsa), self-control, and asceticism. Followers strive to conquer the self to achieve liberation.",
+            "when": "Its origins are ancient, with its philosophy systematized by Mahavira in the 6th century BCE.",
+            "image": "/images/culture/jainissm.webp"
+          },
+          {
+            "name": "Sikhism",
+            "why": "A monotheistic religion from the Punjab region. It teaches belief in one God, equality of all humankind, and selfless service.",
+            "when": "Founded in the 15th century CE by Guru Nanak.",
+            "image": "/images/culture/sikhisim.jpeg"
+          },
+          {
+            "name": "Islam",
+            "why": "A major religion in India, with a significant cultural and architectural impact. Followers worship one God (Allah) and follow the teachings of the Quran.",
+            "when": "Arrived in India with Arab traders on the Malabar Coast in the 7th century CE and later spread with the Delhi Sultanate and Mughal Empire.",
+            "image": "/images/culture/islamic.jpg"
+          },
+          {
+            "name": "Christianity",
+            "why": "A major religion in India, particularly in the southern and northeastern states. It is based on the life and teachings of Jesus of Nazareth.",
+            "when": "Tradition holds that Christianity was introduced to India by the Apostle Thomas in the 1st century CE. It was later spread by European colonizers from the 16th century onwards.",
+            "image": "/images/culture/christianity.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

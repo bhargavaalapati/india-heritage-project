@@ -1,0 +1,578 @@
+{
+  "AP": {
+    "id": "AP",
+    "name": "Andhra Pradesh",
+    "bg": "/images/states/AP/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/AP/1.jpg", "caption": "Taj Mahal" },
+      { "src": "/images/states/AP/2.jpg", "caption": "Diwali Festival" },
+      { "src": "/images/states/AP/3.png", "caption": "Indian Cuisines" }
+    ],
+    "summary": "Known for its rich spiritual heritage, diverse geography, and the exquisite city of Visakhapatnam, Andhra Pradesh is a coastal state with a history of ancient kingdoms and vibrant folk arts. It is home to the world-renowned Tirupati Temple.",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30942.90382302307!2d79.4013196944883!3d13.628786411986404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4d4b0f88620427%3A0xb11942425178e41!2sTirupati%2C%20Andhra%20Pradesh!5e0!3m2!1sen!2sin!4v1725200000000!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "AR": {
+    "id": "AR",
+    "name": "Arunachal Pradesh",
+    "bg": "/images/states/AR/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/AR/1.jpg", "caption": "Tawang Monastery" },
+      { "src": "/images/states/AR/2.jpg", "caption": "Ziro Valley" },
+      { "src": "/images/states/AR/3.png", "caption": "Sela Pass" }
+    ],
+    "summary": "Nicknamed the 'Land of the Dawn-Lit Mountains,' Arunachal Pradesh is the easternmost state of India, known for its pristine natural beauty, majestic monasteries, and diverse indigenous tribes.",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3607629.953983239!2d91.83306771590011!3d27.991567224765223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374043466a1c7227%3A0x76b56e552f9a92f2!2sArunachal%20Pradesh!5e0!3m2!1sen!2sin!4v1756914975669!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "AS": {
+    "id": "AS",
+    "name": "Assam",
+    "bg": "/images/states/AS/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/AS/1.jpg", "caption": "Kaziranga National Park" },
+      { "src": "/images/states/AS/2.jpg", "caption": "Kamakhya Temple" },
+      { "src": "/images/states/AS/3.png", "caption": "Majuli Island" }
+    ],
+    "summary": "Famous for its tea plantations, one-horned rhinoceroses, and the mighty Brahmaputra River, Assam is a gateway to Northeast India. The state has a unique culture shaped by its indigenous communities and rich traditions.",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3575556.036965998!2d90.21694492711603!3d26.029748943615846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374516c94c312d63%3A0xd11a73bb736719fb!2sAssam!5e1!3m2!1sen!2sin!4v1756917883059!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "BR": {
+    "id": "BR",
+    "name": "Bihar",
+    "bg": "/images/states/BR/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/BR/1.jpg", "caption": "Mahabodhi Temple" },
+      { "src": "/images/states/BR/2.jpg", "caption": "Nalanda University Ruins" },
+      { "src": "/images/states/BR/3.png", "caption": "Bodh Gaya" }
+    ],
+    "summary": "A land of ancient empires and spiritual enlightenment, Bihar is the birthplace of Buddhism and Jainism. It is home to historical sites like Bodh Gaya and the ruins of the ancient Nalanda University.",
+    "mapEmbedUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784604.868668412!2d84.28508654343989!3d25.62699609036138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed5844f0bb6903%3A0x57ad3fed1bbae325!2sBihar!5e0!3m2!1sen!2sin!4v1756918012796!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "CT": {
+    "id": "CT",
+    "name": "Chhattisgarh",
+    "bg": "/images/states/CT/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/CT/1.jpg", "caption": "Chitrakote Falls" },
+      { "src": "/images/states/CT/2.jpg", "caption": "Indravati National Park" },
+      { "src": "/images/states/CT/3.png", "caption": "Bastar" }
+    ],
+    "summary": "Known for its rich tribal culture and dense forests, Chhattisgarh is the 'rice bowl of India.' The state is characterized by majestic waterfalls, ancient temples, and stunning natural landscapes.",
+    "mapEmbedUrl" :"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816151.603319431!2d79.67826522133124!3d20.923961827401754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a261f16c67a8bad%3A0x5c23f412fb179d95!2sChhattisgarh!5e0!3m2!1sen!2sin!4v1756918290078!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "GA": {
+    "id": "GA",
+    "name": "Goa",
+    "bg": "/images/states/GA/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/GA/1.jpg", "caption": "Basilica of Bom Jesus" },
+      { "src": "/images/states/GA/2.jpg", "caption": "Dudhsagar Falls" },
+      { "src": "/images/states/GA/3.png", "caption": "Calangute Beach" }
+    ],
+    "summary": "India's smallest state, Goa is a major tourist hub known for its beautiful beaches, vibrant nightlife, and a unique blend of Portuguese and Indian culture, visible in its architecture and cuisine.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d492479.758714769!2d73.67675032705435!3d15.349486407669982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfba106336b741%3A0xeaf887ff62f34092!2sGoa!5e0!3m2!1sen!2sin!4v1756918367071!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "GJ": {
+    "id": "GJ",
+    "name": "Gujarat",
+    "bg": "/images/states/GJ/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/GJ/1.jpg", "caption": "Statue of Unity" },
+      { "src": "/images/states/GJ/2.jpg", "caption": "Rann of Kutch" },
+      { "src": "/images/states/GJ/3.png", "caption": "Somnath Temple" }
+    ],
+    "summary": "The birthplace of Mahatma Gandhi, Gujarat is a state of cultural diversity, from the white salt desert of the Rann of Kutch to the ancient temples and vibrant festivals like Navaratri.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3777452.9084806344!2d68.68534303015508!3d22.39441624683874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959051f5f0ef795%3A0x861bd887ed54522e!2sGujarat!5e0!3m2!1sen!2sin!4v1756918404794!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "HR": {
+    "id": "HR",
+    "name": "Haryana",
+    "bg": "/images/states/HR/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/HR/1.jpg", "caption": "Kurukshetra" },
+      { "src": "/images/states/HR/2.jpg", "caption": "Sultanpur National Park" },
+      { "src": "/images/states/HR/3.png", "caption": "Surajkund" }
+    ],
+    "summary": "Rich in history and culture, Haryana is a state with strong agricultural roots. It holds historical significance as the land of the epic Mahabharata and is known for its folk traditions and craftsmanship.",
+     "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1781732.1724153548!2d74.71950137051606!3d29.283924513914037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390db00b8670400b%3A0x732eaab4aaa6c143!2sHaryana!5e0!3m2!1sen!2sin!4v1756918443270!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "HP": {
+    "id": "HP",
+    "name": "Himachal Pradesh",
+    "bg": "/images/states/HP/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/HP/1.jpg", "caption": "Manali" },
+      { "src": "/images/states/HP/2.jpg", "caption": "Shimla" },
+      { "src": "/images/states/HP/3.png", "caption": "Spiti Valley" }
+    ],
+    "summary": "A popular tourist destination in the Himalayas, Himachal Pradesh is known for its breathtaking mountain landscapes, charming hill stations, ancient temples, and adventure sports.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1735960.406178533!2d75.98237107713769!3d31.81007543124516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390453c367f901f7%3A0x7cfe04c5564b7725!2sHimachal%20Pradesh!5e0!3m2!1sen!2sin!4v1756918475974!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "JH": {
+    "id": "JH",
+    "name": "Jharkhand",
+    "bg": "/images/states/JH/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/JH/1.jpg", "caption": "Dassam Falls" },
+      { "src": "/images/states/JH/2.jpg", "caption": "Betla National Park" },
+      { "src": "/images/states/JH/3.png", "caption": "Jagannath Temple" }
+    ],
+    "summary": "Known as the 'land of forests,' Jharkhand is rich in mineral resources and natural beauty. The state has a unique culture shaped by its indigenous tribal communities and folk arts.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1871161.233973865!2d84.32658287624827!3d23.654070127222433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398b2386df480857%3A0x62c5b809eee29004!2sJharkhand!5e0!3m2!1sen!2sin!4v1756918532871!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "KA": {
+    "id": "KA",
+    "name": "Karnataka",
+    "bg": "/images/states/KA/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/KA/1.jpg", "caption": "Hampi" },
+      { "src": "/images/states/KA/2.jpg", "caption": "Mysore Palace" },
+      { "src": "/images/states/KA/3.png", "caption": "Badami Caves" }
+    ],
+    "summary": "A land of diverse landscapes and rich history, Karnataka ranges from the ancient ruins of Hampi to the modern tech hub of Bengaluru. It is home to monuments of the Vijayanagara Empire and grand palaces.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945976.0707494435!2d73.67880262268218!3d15.02086478493146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba35a4c37bf488f%3A0x41f1d28cd1757cd5!2sKarnataka!5e0!3m2!1sen!2sin!4v1756918567108!5m2!1sen!2sin",
+    "related": {
+      "monuments": ["hampi"],
+      "hasAR": false
+    }
+  },
+  "KL": {
+    "id": "KL",
+    "name": "Kerala",
+    "bg": "/images/states/KL/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/KL/1.jpg", "caption": "Alleppey Backwaters" },
+      { "src": "/images/states/KL/2.jpg", "caption": "Munnar Tea Plantations" },
+      { "src": "/images/states/KL/3.png", "caption": "Fort Kochi" }
+    ],
+    "summary": "Known as 'God's Own Country,' Kerala is famous for its serene backwaters, lush greenery, and rich culture. It has a unique cultural identity shaped by its history of trade and the arts.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4016584.092792871!2d76.13836675!3d10.544276349999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b0812ffd49cf55b%3A0x64bd90fbed387c99!2sKerala!5e0!3m2!1sen!2sin!4v1756921734148!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "MP": {
+    "id": "MP",
+    "name": "Madhya Pradesh",
+    "bg": "/images/states/MP/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/MP/1.jpg", "caption": "Khajuraho Group of Monuments" },
+      { "src": "/images/states/MP/2.jpg", "caption": "Sanchi Stupa" },
+      { "src": "/images/states/MP/3.png", "caption": "Gwalior Fort" }
+    ],
+    "summary": "The 'Heart of India,' Madhya Pradesh is home to historical monuments, ancient temples, and magnificent wildlife. It has been the seat of major dynasties and a center for art and religion.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733878.02661939!2d75.77947384673026!3d23.94752072154929!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39667381d35aea05%3A0xe0106b0d4e701c1e!2sMadhya%20Pradesh!5e0!3m2!1sen!2sin!4v1756918612113!5m2!1sen!2sin",
+    "related": {
+      "monuments": ["khajuraho", "sanchi"],
+      "hasAR": false
+    }
+  },
+  "MH": {
+    "id": "MH",
+    "name": "Maharashtra",
+    "bg": "/images/states/MH/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/MH/1.jpg", "caption": "Gateway of India" },
+      { "src": "/images/states/MH/2.jpg", "caption": "Ajanta Caves" },
+      { "src": "/images/states/MH/3.png", "caption": "Chhatrapati Shivaji Maharaj Terminus" }
+    ],
+    "summary": "Home to the financial capital of India, Mumbai, Maharashtra is a state of immense diversity, with ancient cave art, spiritual sites, and a bustling film industry. It is a major hub of Indian commerce and culture.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3867615.165604229!2d74.12798686184425!3d18.79958227080207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcfc41e9c9cd6f9%3A0x1b2f22924be04fb6!2sMaharashtra!5e0!3m2!1sen!2sin!4v1756918642797!5m2!1sen!2sin",
+    "related": {
+      "monuments": ["ajanta", "ellora"],
+      "hasAR": true
+    }
+  },
+  "MN": {
+    "id": "MN",
+    "name": "Manipur",
+    "bg": "/images/states/MN/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/MN/1.jpg", "caption": "Loktak Lake" },
+      { "src": "/images/states/MN/2.jpg", "caption": "Kangla Fort" },
+      { "src": "/images/states/MN/3.png", "caption": "Keibul Lamjao National Park" }
+    ],
+    "summary": "A state in Northeast India with a distinct cultural identity, Manipur is famous for its rich folk traditions, classical dance form (Manipuri), and the unique Loktak Lake with its floating islands.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1855043.9131939625!2d92.5380915678742!3d24.75664087293281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3749265bf16390db%3A0x8cc1691ae0a829af!2sManipur!5e0!3m2!1sen!2sin!4v1756918937037!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "ML": {
+    "id": "ML",
+    "name": "Meghalaya",
+    "bg": "/images/states/ML/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/ML/1.jpg", "caption": "Living Root Bridges" },
+      { "src": "/images/states/ML/2.jpg", "caption": "Nohkalikai Falls" },
+      { "src": "/images/states/ML/3.png", "caption": "Mawlynnong Village" }
+    ],
+    "summary": "Meaning 'abode of clouds,' Meghalaya is known for its lush green hills, stunning waterfalls, and unique living root bridges. The state has a distinct matriarchal society and rich tribal customs.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1842656.6608937555!2d91.31129874999999!3d25.5737031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37507e8f34bd207f%3A0xf5ef6117f496d6e!2sMeghalaya!5e0!3m2!1sen!2sin!4v1756918972937!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "MZ": {
+    "id": "MZ",
+    "name": "Mizoram",
+    "bg": "/images/states/MZ/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/MZ/1.jpg", "caption": "Phawngpui Blue Mountain" },
+      { "src": "/images/states/MZ/2.jpg", "caption": "Durtlang Hills" },
+      { "src": "/images/states/MZ/3.png", "caption": "Reiek Tlang" }
+    ],
+    "summary": "A land of rolling hills and deep valleys, Mizoram is known for its rich cultural festivals, vibrant folk dances like Cheraw (bamboo dance), and a peaceful, scenic environment.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1877159.7428479174!2d92.84899395000001!3d23.23116215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374d0bd19f3f36f7%3A0xb1f62692a3d5e474!2sMizoram!5e0!3m2!1sen!2sin!4v1756919004356!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "NL": {
+    "id": "NL",
+    "name": "Nagaland",
+    "bg": "/images/states/NL/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/NL/1.jpg", "caption": "Dzukou Valley" },
+      { "src": "/images/states/NL/2.jpg", "caption": "Kisama Heritage Village" },
+      { "src": "/images/states/NL/3.png", "caption": "Kohima War Cemetery" }
+    ],
+    "summary": "Known for its vibrant tribal culture and annual Hornbill Festival, Nagaland is a hilly state with a unique blend of traditions, handicrafts, and scenic beauty.",
+    "mapEmbedUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d917105.0963976212!2d94.28472024999999!3d26.117134799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3746210934c63d31%3A0x1f2df33a89cc3efd!2sNagaland!5e0!3m2!1sen!2sin!4v1756919030934!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "OD": {
+    "id": "OD",
+    "name": "Odisha",
+    "bg": "/images/states/OD/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/OD/1.jpg", "caption": "Konark Sun Temple" },
+      { "src": "/images/states/OD/2.jpg", "caption": "Jagannath Temple, Puri" },
+      { "src": "/images/states/OD/3.png", "caption": "Chilika Lake" }
+    ],
+    "summary": "A state with a rich history of temple architecture and a prominent religious heritage. Odisha is home to the Konark Sun Temple, a UNESCO World Heritage Site, and the sacred Jagannath Temple in Puri.",
+    "mapEmbedUrl" :"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834529.343299733!2d84.4372568!3d20.189978649999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a226aece9af3bfd%3A0x133625caa9cea81f!2sOdisha!5e0!3m2!1sen!2sin!4v1756919055769!5m2!1sen!2sin",
+    "related": {
+      "monuments": ["konark"],
+      "hasAR": false
+    }
+  },
+  "PB": {
+    "id": "PB",
+    "name": "Punjab",
+    "bg": "/images/states/PB/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/PB/1.jpg", "caption": "Golden Temple" },
+      { "src": "/images/states/PB/2.jpg", "caption": "Jallianwala Bagh" },
+      { "src": "/images/states/PB/3.png", "caption": "Wagah Border" }
+    ],
+    "summary": "The 'land of five rivers,' Punjab is known for its vibrant Sikh culture, agricultural prosperity, and profound spiritual sites like the Golden Temple in Amritsar. Its cuisine is famous across the country.",
+    "mapEmbedUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1750517.5855329125!2d75.4106475!3d31.02681635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391964aa569e7355%3A0x8fbd263103a38861!2sPunjab!5e0!3m2!1sen!2sin!4v1756919090806!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "RJ": {
+    "id": "RJ",
+    "name": "Rajasthan",
+    "bg": "/images/states/RJ/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/RJ/1.jpg", "caption": "Hawa Mahal" },
+      { "src": "/images/states/RJ/2.jpg", "caption": "Mehrangarh Fort" },
+      { "src": "/images/states/RJ/3.png", "caption": "Udaipur City Palace" }
+    ],
+    "summary": "The 'Land of Kings' is famous for its majestic palaces, ancient forts, and vast desert landscapes. Its vibrant culture is reflected in its colorful festivals, traditional folk music, and elaborate textiles.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652225.8496521735!2d73.8783471!3d26.62840645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396a3efaf7e30e37%3A0xb52b9b4506c088e5!2sRajasthan!5e0!3m2!1sen!2sin!4v1756919118007!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "SK": {
+    "id": "SK",
+    "name": "Sikkim",
+    "bg": "/images/states/SK/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/SK/1.jpg", "caption": "Gangtok" },
+      { "src": "/images/states/SK/2.jpg", "caption": "Tsomgo Lake" },
+      { "src": "/images/states/SK/3.png", "caption": "Yuksom" }
+    ],
+    "summary": "Nestled in the Himalayas, Sikkim is known for its stunning mountain views, Buddhist monasteries, and pristine natural environment. It is one of India's most peaceful and eco-friendly states.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d905177.4237840321!2d88.46659555000001!3d27.598201049999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e6a56a5805eafb%3A0xa4c4b857c39b5a04!2sSikkim!5e0!3m2!1sen!2sin!4v1756919155324!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "TN": {
+    "id": "TN",
+    "name": "Tamil Nadu",
+    "bg": "/images/states/TN/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/TN/1.jpg", "caption": "Meenakshi Amman Temple" },
+      { "src": "/images/states/TN/2.jpg", "caption": "Brihadeeswarar Temple" },
+      { "src": "/images/states/TN/3.png", "caption": "Mahabalipuram" }
+    ],
+    "summary": "With a civilization spanning millennia, Tamil Nadu is known for its ancient Dravidian architecture, towering temples, and a rich tradition of classical dance and music. It is a major center for Hindu culture.",
+    "mapEmbedUrl" :"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4012924.123838464!2d78.28976490000001!3d10.821166349999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b00c582b1189633%3A0x559475cc463361f0!2sTamil%20Nadu!5e0!3m2!1sen!2sin!4v1756919183766!5m2!1sen!2sin",
+    "related": {
+      "monuments": ["meenakshi", "brihadeeswara"],
+      "hasAR": false
+    }
+  },
+  "TS": {
+    "id": "TS",
+    "name": "Telangana",
+    "bg": "/images/states/TS/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/TS/1.jpg", "caption": "Charminar" },
+      { "src": "/images/states/TS/2.jpg", "caption": "Golconda Fort" },
+      { "src": "/images/states/TS/3.png", "caption": "Ramoji Film City" }
+    ],
+    "summary": "Formed as India's newest state, Telangana has a rich history with the city of Hyderabad as its capital. It is known for its distinct food, vibrant festivals, and a blend of Deccan and Persian cultures.",
+    "mapEmbedUrl" :"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888711.8285036595!2d76.63729843120888!3d17.858774705034495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3350db9429ed43%3A0x63ef7ba741594059!2sTelangana!5e0!3m2!1sen!2sin!4v1756919503265!5m2!1sen!2sin",
+    "related": {
+      "monuments": ["charminar"],
+      "hasAR": false
+    }
+  },
+  "TR": {
+    "id": "TR",
+    "name": "Tripura",
+    "bg": "/images/states/TR/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/TR/1.jpg", "caption": "Ujjayanta Palace" },
+      { "src": "/images/states/TR/2.jpg", "caption": "Neermahal Palace" },
+      { "src": "/images/states/TR/3.png", "caption": "Tripura Sundari Temple" }
+    ],
+    "summary": "A state in Northeast India, Tripura is known for its unique blend of Bengali and indigenous tribal cultures. The state is home to magnificent palaces, ancient temples, and beautiful lakes.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d935013.427484841!2d91.08369189062425!3d23.733246873846138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3753b566f6c1a285%3A0x14dd7ae7453fff74!2sTripura!5e0!3m2!1sen!2sin!4v1756919530975!5m2!1sen!2sin" ,
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "UP": {
+    "id": "UP",
+    "name": "Uttar Pradesh",
+    "bg": "/images/states/UP/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/UP/1.jpg", "caption": "Taj Mahal" },
+      { "src": "/images/states/UP/2.jpg", "caption": "Varanasi" },
+      { "src": "/images/states/UP/3.png", "caption": "Lucknow" }
+    ],
+    "summary": "The most populous state in India, Uttar Pradesh is the cradle of Hindu and Muslim civilizations. It is home to iconic monuments like the Taj Mahal and sacred cities like Varanasi and Ayodhya.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3636592.3052866235!2d78.21801540007554!3d27.113479109829395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39994e9f7b4a09d3%3A0xf6a5476d3617249d!2sUttar%20Pradesh!5e0!3m2!1sen!2sin!4v1756919549037!5m2!1sen!2sin",
+    "related": {
+      "monuments": ["tajmahal"],
+      "hasAR": true
+    }
+  },
+  "UK": {
+    "id": "UK",
+    "name": "Uttarakhand",
+    "bg": "/images/states/UK/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/UK/1.jpg", "caption": "Haridwar" },
+      { "src": "/images/states/UK/2.jpg", "caption": "Valley of Flowers" },
+      { "src": "/images/states/UK/3.png", "caption": "Rishikesh" }
+    ],
+    "summary": "Known as 'Devbhumi' or the 'Land of Gods,' Uttarakhand is a Himalayan state with sacred Hindu pilgrimage sites, majestic peaks, and scenic natural beauty.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1767600.1240830577!2d77.98933787614276!3d30.08433311073457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3909dcc202279c09%3A0x7c43b63689cc005!2sUttarakhand!5e0!3m2!1sen!2sin!4v1756919564737!5m2!1sen!2sin" ,
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "WB": {
+    "id": "WB",
+    "name": "West Bengal",
+    "bg": "/images/states/WB/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/WB/1.jpg", "caption": "Victoria Memorial" },
+      { "src": "/images/states/WB/2.jpg", "caption": "Howrah Bridge" },
+      { "src": "/images/states/WB/3.png", "caption": "Sundarbans National Park" }
+    ],
+    "summary": "A state rich in literary, artistic, and culinary traditions. West Bengal is home to the intellectual and cultural hub of Kolkata and is known for its vibrant festivals like Durga Puja.",
+    "mapEmbedUrl" :"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3722102.046138074!2d85.20964333364428!3d24.351185105118088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fa16ff1397e887%3A0x71543a3dc3e7a20a!2sWest%20Bengal!5e0!3m2!1sen!2sin!4v1756919580554!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "AN": {
+    "id": "AN",
+    "name": "Andaman and Nicobar Islands",
+    "bg": "/images/states/AN/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/AN/1.jpg", "caption": "Radhanagar Beach" },
+      { "src": "/images/states/AN/2.jpg", "caption": "Cellular Jail" },
+      { "src": "/images/states/AN/3.png", "caption": "Havelock Island" }
+    ],
+    "summary": "A group of islands in the Bay of Bengal, known for their pristine beaches, turquoise waters, and tropical rainforests. It also holds historical significance related to India's freedom struggle.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4020949.7754155593!2d90.58941179078552!3d10.204289173350592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3064a00f2b650ff3%3A0xce80055648fccb2c!2sAndaman%20and%20Nicobar%20Islands!5e0!3m2!1sen!2sin!4v1756919597208!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "CH": {
+    "id": "CH",
+    "name": "Chandigarh",
+    "bg": "/images/states/CH/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/CH/1.jpg", "caption": "Rock Garden" },
+      { "src": "/images/states/CH/2.jpg", "caption": "Sukhna Lake" },
+      { "src": "images/states/CH/3.png", "caption": "Capitol Complex" }
+    ],
+    "summary": "A union territory and a well-planned city, Chandigarh is known for its modern architecture and urban design. It serves as the capital for both Punjab and Haryana.",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109744.22709333096!2d76.68831216812448!3d30.73225442207887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fed0be66ec96b%3A0xa5ff67f9527319fe!2sChandigarh!5e0!3m2!1sen!2sin!4v1756919616770!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "DN": {
+    "id": "DN",
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "bg": "/images/states/DN/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/DN/1.jpg", "caption": "Devka Beach" },
+      { "src": "/images/states/DN/2.jpg", "caption": "Daman Fort" },
+      { "src": "/images/states/DN/3.png", "caption": "Gangeshwar Temple" }
+    ],
+    "summary": "A union territory known for its coastal beauty, historical forts, and a unique blend of tribal, Portuguese, and Indian cultures. It is a hub for industrial development.",
+    "mapEmbedUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d957284.0823687516!2d71.38502422771292!3d20.407987067883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7348cc7ff7e77%3A0x224d60bdbf8fd63d!2sDadra%20and%20Nagar%20Haveli%20and%20Daman%20and%20Diu!5e0!3m2!1sen!2sin!4v1756919632194!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "DL": {
+    "id": "DL",
+    "name": "Delhi",
+    "bg": "/images/states/DL/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/DL/1.jpg", "caption": "India Gate" },
+      { "src": "/images/states/DL/2.jpg", "caption": "Humayun's Tomb" },
+      { "src": "/images/states/DL/3.png", "caption": "Qutub Minar" }
+    ],
+    "summary": "The capital of India, Delhi is a vibrant metropolis that blends centuries of history with modern infrastructure. Its rich past as a center of various empires is reflected in countless monuments, while its bustling urban life showcases India's future.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d448196.5258878319!2d76.76357620298013!3d28.643684730427257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x37205b715389640!2sDelhi!5e0!3m2!1sen!2sin!4v1756919663509!5m2!1sen!2sin",
+    "related": {
+      "monuments": ["qutubminar"],
+      "hasAR": true
+    }
+  },
+  "JK": {
+    "id": "JK",
+    "name": "Jammu and Kashmir",
+    "bg": "/images/states/JK/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/JK/1.jpg", "caption": "Dal Lake" },
+      { "src": "/images/states/JK/2.jpg", "caption": "Shalimar Bagh" },
+      { "src": "/images/states/JK/3.png", "caption": "Gulmarg" }
+    ],
+    "summary": "Known as the 'Heaven on Earth,' Jammu and Kashmir is famous for its breathtaking mountain landscapes, pristine lakes, and serene Mughal gardens. Its culture is a unique blend of different traditions.",
+    "mapEmbedUrl" :"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1702829.5292726744!2d75.26472355!3d33.5315733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e1092499ffa89d%3A0x6567a6d4697e7f1!2sJammu%20and%20Kashmir!5e0!3m2!1sen!2sin!4v1756919685422!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "LA": {
+    "id": "LA",
+    "name": "Ladakh",
+    "bg": "/images/states/LA/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/LA/1.jpg", "caption": "Pangong Tso Lake" },
+      { "src": "/images/states/LA/2.jpg", "caption": "Leh Palace" },
+      { "src": "/images/states/LA/3.png", "caption": "Nubra Valley" }
+    ],
+    "summary": "A high-altitude desert region, Ladakh is a land of stunning landscapes, ancient Buddhist monasteries, and a unique culture influenced by Tibetan traditions. It is a popular destination for adventure tourism.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1693456.8906222284!2d77.44441054999999!3d34.0045274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38fd86bce37d7139%3A0xc6c2990fdad28ac7!2sLadakh!5e0!3m2!1sen!2sin!4v1756919751410!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "LD": {
+    "id": "LD",
+    "name": "Lakshadweep",
+    "bg": "/images/states/LD/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/LD/1.jpg", "caption": "Kadmat Island" },
+      { "src": "/images/states/LD/2.jpg", "caption": "Bangaram Atoll" },
+      { "src": "/images/states/LD/3.png", "caption": "Kalpeni Island" }
+    ],
+    "summary": "A group of coral islands in the Laccadive Sea, Lakshadweep is known for its exotic beaches, diverse marine life, and tranquil environment. It is a major destination for snorkeling and scuba diving.",
+    "mapEmbedUrl" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2011853.5000144378!2d72.9331049!3d9.983666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b9fcd65cae4973d%3A0x17bd7416842ce9aa!2sLakshadweep!5e0!3m2!1sen!2sin!4v1756919776700!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  },
+  "PY": {
+    "id": "PY",
+    "name": "Puducherry",
+    "bg": "/images/states/PY/bg.jpg",
+    "carousel": [
+      { "src": "/images/states/PY/1.jpg", "caption": "Aurobindo Ashram" },
+      { "src": "/images/states/PY/2.jpg", "caption": "Puducherry Beach" },
+      { "src": "/images/states/PY/3.png", "caption": "French Quarter" }
+    ],
+    "summary": "Known for its French colonial architecture and spiritual aura, Puducherry is a union territory with a unique blend of French and Indian cultures. It is a center for spirituality and peaceful living.",
+    "mapEmbedUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62456.1432314119!2d79.8131935!3d11.93922305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5361ab8e49cfcf%3A0xcc6bd326d2f0b04e!2sPuducherry!5e0!3m2!1sen!2sin!4v1756919797676!5m2!1sen!2sin",
+    "related": {
+      "monuments": [],
+      "hasAR": false
+    }
+  }
+}
